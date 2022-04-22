@@ -5,6 +5,14 @@ The heating system is basically used to control the temperature. The user gets a
 
 ## Badges
 
+Code Quality Score
+
+![Code Quality Score](https://api.codiga.io/project/32996/score/svg)
+
+Code Grade
+
+![Code Grade](https://api.codiga.io/project/32996/status/svg)
+
 cppcheck
 
 [![cppcheck-action-test](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/c-cpp1.yml)
