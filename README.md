@@ -13,6 +13,10 @@ Valgrind
 
 [![Valgrind](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/valgrind.yml)
 
+Build
+
+[![CI](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/main.yml/badge.svg)](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/main.yml)
+
 
 ## Folder Structure
 Folder             | Description
