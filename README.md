@@ -8,7 +8,7 @@ The heating system is basically used to control the temperature. The user gets a
 
 
 
-# Folder Structure
+## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `0_Abstract`   |Brief explanation about project
