@@ -5,7 +5,6 @@
  * @version 0.1
  * @date 2022-04-20
  * 
- * @copyright Copyright (c) 2021
  * 
  */
 #include <avr/io.h>
