@@ -9,6 +9,10 @@ cppcheck
 
 [![cppcheck-action-test](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/c-cpp1.yml)
 
+Valgrind
+
+[![Valgrind](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/valgrind.yml)
+
 
 ## Folder Structure
 Folder             | Description
