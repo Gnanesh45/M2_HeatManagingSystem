@@ -1,1 +1,8 @@
+# Heat Managing System
 
+
+### Theory
+
+The heat managing system is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the control system are done on a microcontroller called Atmega328.
+
+The circuit works by monitoring temperature from an external input and comparing the temperature level with that of a preset temperature value. The power output of the circuit is cut off or switched OFF or an alarm is triggered ON if the temperature of the external input is equal to or, greater than the preset temperature value. The methodology involves the application of linear precision temperature sensors i.e., they generate a voltage that is directly proportional to the temperature. Basically the system is constructed using temperature sensors and comparators. The system is powered using a 12V power supply. The results of the tests showed that the power output of the circuit is switched OFF hence switching OFF the heating device or an alarm is triggered ON when the device exceeded a preset temperature level. The general operation of the system and performance is dependent on the temperature difference between the preset temperature value and external temperature intended to be monitored. The overall system was tested and found perfectly functional.
