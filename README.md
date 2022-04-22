@@ -5,7 +5,9 @@ The heating system is basically used to control the temperature. The user gets a
 
 ## Badges
 
+cppcheck
 
+[![cppcheck-action-test](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Gnanesh45/M2_HeatManagingSystem/actions/workflows/c-cpp1.yml)
 
 
 ## Folder Structure
